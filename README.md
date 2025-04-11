@@ -1,1 +1,1 @@
-# Demonstration of Ontology
+# Circle Ontology Demonstration
